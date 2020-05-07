@@ -1,0 +1,1 @@
+------->resimler "AtikToplamaOyunu\WindowsFormsApp4\bin\Debug" içerisindedir.
